@@ -1,3 +1,5 @@
+// C program to print triangle pattern
+
 #include <stdio.h>
 int main()
 {
